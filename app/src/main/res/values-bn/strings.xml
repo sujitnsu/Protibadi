@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">PROTIBADI</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name ="connect_device">ডিভাইস সংযোগ</string>
+    <string name ="Device_Info">ডিভাইস সম্পর্কিত তথ্য</string>
+    <string name ="Bluetooth_Status">ব্লুটুথ অবস্থা</string>
+    <string name ="Add_Number">নতুন ফোন নম্বর যোগ করুন!</string>
+    <string name ="Enter_Number">ফোন নম্বর লিখুন</string>
+    <string name ="Enter_Name">নাম লিখুন</string>
+    <string name ="save">সংরক্ষণ</string>
+    <string name ="cancel">বাতিল</string>
+    <string name ="my_location">আমার অবস্থান</string>
+    <string name ="send_message">বার্তা পাঠান</string>
+    <string name ="save_number">ফোন নম্বর সংরক্ষণ</string>
+    <string name ="show_number">ফোন নম্বর দেখুন</string>
+    <string name ="delete_number">ফোন নম্বর মুছুন</string>
+    <string name ="settings">সেটিংস</string>
+    <string name ="bangla">বাংলা</string>
+    <string name ="english">ইংরেজি</string>
+    <string name ="location_status">অবস্থান পাওয়া যায়নি!!</string>
+    <string name ="message">আমি বিপদে পড়ছি। আমার অবস্থান হচ্ছে </string>
+    <string name ="police">পুলিশ</string>
+
+
+
+</resources>
