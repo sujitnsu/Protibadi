@@ -1,1 +1,2 @@
 # Protibadi
+The Protibadi is wearable device allowing users to send alerts to predetermined friends and family without using their phones who can then call 999. Similar to setting a watch, users can activate the Safelet by simultaneously pressing two buttons located on either side of the face. It looks and is worn like a regular bracelet, and once activated, syncs with the user’s mobile phone and starts recording sound.
